@@ -1,0 +1,52 @@
+.inputXs {
+  width: 240px;
+  height: 24px;
+ padding: 4px 16px;
+   gap: 8px; 
+  border-radius: 4px;
+  background:  #FFFFFF;
+  /* border: 1px solid  #D1D1D6; */
+}
+
+.inputSm {
+  width: 240px;
+  height: 36px;
+  padding: 8px 16px;
+  gap: 8px;
+  border-radius: 4px;
+  background:  #FFFFFF;
+  /* border: 1px solid  #D1D1D6; */
+}
+
+.inputLg {
+  width: 240px;
+  height: 40px;
+  padding: 16px 24px;
+  gap: 8px;
+  border-radius: 4px;
+  background:  #FFFFFF;
+  /* border: 1px solid  #D1D1D6; */
+}
+
+.inputXl {
+  width: 240px;
+  height: 48px;
+ padding: 16px 24px;
+   gap: 8px;
+  border-radius: 4px;
+  background:  #FFFFFF;
+  
+}
+
+.border{
+  border: 1px solid  #D1D1D6;
+}
+.inputGroupBase {
+ background-color: #f3f4f6; 
+  width: 600px; 
+  height: 200px; 
+  display: flex; 
+
+  align-items: center; 
+  justify-content: center;
+}

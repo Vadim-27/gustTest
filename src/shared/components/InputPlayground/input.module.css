@@ -1,0 +1,115 @@
+.input {
+  width: 326px;
+  height: 36px;
+ padding: 8px 16px ;
+   gap: 8px;
+  border-radius: 4px;
+  background:  #FFFFFF;
+   /* border: 1px solid  #D1D1D6; */
+  
+}
+.border{
+  border: 1px solid  #D1D1D6;
+}
+.input:hover {
+  /* border-color: #A1A1A6; 
+  background: #F5F5F5;  */
+}
+.input:focus {
+  border-color: #84CAFF; 
+  outline: none; 
+  box-shadow: 0px 0px 0px 4px #2E90FA3D; 
+
+}
+.inputHover{}
+.inputFocus{
+   border-color: #84CAFF; 
+  outline: none; 
+  box-shadow: 0px 0px 0px 4px #2E90FA3D; 
+}
+.errorBorder {
+  border-color: #FDA29B;
+}
+
+.disabled {
+  background-color: #FFFFFF;
+
+  cursor: not-allowed;
+}
+.errorFocusBorder {
+  border-color: #FDA29B;
+box-shadow: 0px 0px 0px 4px #F044383D;
+
+}
+.iconBeforePading{
+  padding-left: 40px;
+}
+.iconAfterPading{
+  padding-right: 68px;
+}
+
+
+
+
+
+
+
+.inputGroup {
+
+  width: 600px; 
+  height: 200px; 
+  display: flex; 
+
+  align-items: center; 
+  justify-content: center;
+}
+/* ///////////////////////////   Dark      //////////////////////////////////////////// */
+
+.inputDark {
+  width: 326px;
+  height: 36px;
+ padding: 8px 16px ;
+   gap: 8px;
+  border-radius: 4px;
+  background:  #131316;
+ 
+  
+}
+.borderDark{
+  border: 1px solid  #51525C;
+}
+.inputDark:hover {
+  /* border-color: #A1A1A6; 
+  background: #F5F5F5;  */
+}
+.inputDark:focus {
+  border-color: #84CAFF; 
+  outline: none; 
+  box-shadow: 0px 0px 0px 4px #2E90FA3D; 
+
+}
+.inputHover{}
+.inputFocusDark{
+   border-color: #84CAFF; 
+  outline: none; 
+  box-shadow: 0px 0px 0px 4px #2E90FA3D; 
+}
+.errorBorderDark {
+  border-color: #FDA29B;
+}
+
+.disabledDark {
+  background-color: #3F3F46;
+  cursor: not-allowed;
+}
+.errorFocusBorderDark {
+  border-color: #FDA29B;
+box-shadow: 0px 0px 0px 4px #F044383D;
+
+}
+.iconBeforePadingDark {
+  padding-left: 40px;
+}
+.iconAfterPadingDark {
+  padding-right: 68px;
+}
